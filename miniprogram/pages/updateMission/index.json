@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "任务列表",
-  "usingComponents": {
-    "cloud-tip-modal": "/components/cloudTipModal/index"
-  }
-}
