@@ -6,7 +6,7 @@ https://bytedance.feishu.cn/docx/doxcnvk58QcRZxmOmHgogANvnQu
 ## 教程
 1. 登录微信公众平台进入小程序开发，下载开发工具 <img width="998" alt="image" src="https://user-images.githubusercontent.com/91682486/161386688-665b3220-afc9-4e64-9604-95b27c01252c.png">
 2. Github中点击Code，打包下载(download zip) <img width="998" alt="image" src="https://user-images.githubusercontent.com/91682486/161386732-f2ecadb5-06fa-4f15-b467-c26b907d613b.png">
-3. 打开本地开发工具导入包<img width="800" alt="image" src="https://user-images.githubusercontent.com/91682486/161386760-8ba4fc27-30b1-462c-bd12-674fffdb3f3e.png">
+3. 打开本地开发工具导入包<img width="800" alt="image" src="https://user-images.githubusercontent.com/91682486/161387772-5f768cd5-e86e-46e3-aee0-1274153d573d.png">
 4. 修改项目名称，选择刚才打包解压后的文件夹 <img width="800" alt="image" src="https://user-images.githubusercontent.com/91682486/161386830-079d8598-a83c-4fed-9c01-6b681f804147.png">
 5. 修改小程序名称 <img width="687" alt="image" src="https://user-images.githubusercontent.com/91682486/161386900-64dc6bd6-3862-413f-adcc-477867c3a1b4.png">
 6. 同理修改用户名 <img width="660" alt="image" src="https://user-images.githubusercontent.com/91682486/161386931-bb973136-4246-40e5-8760-b9804462ad2f.png">
