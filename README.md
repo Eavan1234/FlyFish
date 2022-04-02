@@ -10,7 +10,7 @@ https://bytedance.feishu.cn/docx/doxcnvk58QcRZxmOmHgogANvnQu
 4. 修改项目名称，选择刚才打包解压后的文件夹 <img width="800" alt="image" src="https://user-images.githubusercontent.com/91682486/161386830-079d8598-a83c-4fed-9c01-6b681f804147.png">
 5. 修改小程序名称 <img width="687" alt="image" src="https://user-images.githubusercontent.com/91682486/161386900-64dc6bd6-3862-413f-adcc-477867c3a1b4.png">
 6. 同理修改用户名 <img width="660" alt="image" src="https://user-images.githubusercontent.com/91682486/161386931-bb973136-4246-40e5-8760-b9804462ad2f.png">
-7. 替换主页背景，将代码中的图片名改为自己上传的图片，删掉原图片 <img width="840" alt="image" src="https://user-images.githubusercontent.com/91682486/161386998-e63cfe16-1fc6-4a9f-8c35-c85d0e533a96.png">
+7. 替换主页背景，将代码中的图片名改为自己上传的图片，删掉原图片 <img width="838" alt="image" src="https://user-images.githubusercontent.com/91682486/161387658-509e2f39-775c-48c7-9180-e252a0b2f3f4.png">
 8. 配置云开发环境 <img width="1264" alt="image" src="https://user-images.githubusercontent.com/91682486/161387067-d841affd-daf4-4574-a79e-32c1540e0bc8.png"><img width="833" alt="image" src="https://user-images.githubusercontent.com/91682486/161387125-9460d9e3-81b2-431f-a188-01cfb2021c5f.png">
 9. 创建数据库 <img width="882" alt="image" src="https://user-images.githubusercontent.com/91682486/161387211-a9b52759-0bcd-43a4-8407-d35e268a8941.png">
 10. 自定义安全规则 <img width="1181" alt="image" src="https://user-images.githubusercontent.com/91682486/161387246-0742c444-b770-49ef-a59f-9579d28c1d72.png"><img width="498" alt="image" src="https://user-images.githubusercontent.com/91682486/161387259-a3346741-6507-48a5-b4aa-5f2c8340fb5e.png">
