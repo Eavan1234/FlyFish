@@ -9,6 +9,6 @@ const db = cloud.database();
 exports.main = async (event, context) => {
   // 返回数据库查询结果
   return await db.collection('user').where({
-    user_name: '高高'
+    user_name: '飞鱼'
   }).get();
 };

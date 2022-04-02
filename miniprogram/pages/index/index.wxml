@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
-  <image class="bg-image" mode="widthFix" src="./IMG_1255.png"></image>
-  <view class="integral" wx:if="{{userName}}">{{userName}}的🐔分:{{userIntegral || 0}}</view>
+  <image class="bg-image" mode="widthFix" src="./IMG_0052.png"></image>
+  <view class="integral" wx:if="{{userName}}">{{userName}}的积分:{{userIntegral || 0}}</view>
 
   <view class="power" wx:key="title" wx:for="{{powerList}}" wx:for-item="power">
     <view wx:if="{{power.showItem}}">

@@ -67,7 +67,7 @@ Page({
       const userIntegral = resp.result.data[0].user_integral
       if (userIntegral < goods.goods_integral) {
         wx.showToast({
-          title: '鸡分不足',
+          title: '积分不足',
           icon: 'error',
           duration: 2000
         })

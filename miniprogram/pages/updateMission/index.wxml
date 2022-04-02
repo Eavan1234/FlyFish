@@ -2,7 +2,7 @@
   <view  wx:if="{{record}}" class="code_box">
     <view class="code_box_record">
       <view class="code_box_record_title code_box_record_title_content">任务内容</view>
-      <view class="code_box_record_title code_box_record_title_number">价值鸡分</view>
+      <view class="code_box_record_title code_box_record_title_number">价值积分</view>
       <view class="code_box_record_title code_box_record_title_time">操作</view>
     </view>
     <view class="line"></view>

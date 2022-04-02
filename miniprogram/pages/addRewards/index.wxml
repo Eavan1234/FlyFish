@@ -19,7 +19,7 @@
       <view class="button_clear" bindtap="clearImgSrc" wx:if="{{haveGetImgSrc}}">清空</view>
       </view>
       <view class="page-section">
-        <view class="weui-cells__title">奖励鸡分</view>
+        <view class="weui-cells__title">奖励积分</view>
         <view class="weui-cells weui-cells_after-title">
           <view class="weui-cell weui-cell_input">
             <input name="goods_integral" class="weui-input" type="number" placeholder="请输入"/>
